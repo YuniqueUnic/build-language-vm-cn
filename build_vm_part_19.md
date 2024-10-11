@@ -592,7 +592,7 @@ End of Register Listing
 
 我们下次教程见！
 
-原文出处：[Benchmarks - So You Want to Build a Language VM](https://blog.subnetzero.io/post/building-language-vm-part-20/)
+原文出处：[Benchmarks - So You Want to Build a Language VM](https://blog.subnetzero.io/post/building-language-vm-part-19/)
 作者名：Fletcher
 
 ### 俚语&典故
